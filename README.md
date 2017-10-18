@@ -1,2 +1,2 @@
 # NineMensMorris
-CCNY CSC448 AI - Spring 2017
+NineMensMorris - Draws the Board
